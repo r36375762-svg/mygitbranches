@@ -1,1 +1,2 @@
 this is my text file in main branch
+this is updated file from branch second
